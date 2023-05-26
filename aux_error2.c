@@ -66,4 +66,8 @@ char *error_path_126(data_shell *datash)
 	_strcat(error, "\0");
 	free(ver_str);
 	return (error);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aa793d9fef16284e87663abc8f93282ab78206b0

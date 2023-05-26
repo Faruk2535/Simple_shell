@@ -141,4 +141,8 @@ char *error_exit_shell(data_shell *datash)
 	free(ver_str);
 
 	return (error);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aa793d9fef16284e87663abc8f93282ab78206b0

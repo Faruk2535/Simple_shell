@@ -77,4 +77,8 @@ void aux_help_exit(void)
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "statusis that of the last command executed\n";
 	write(STDOUT_FILENO, help, _strlen(help));
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aa793d9fef16284e87663abc8f93282ab78206b0
